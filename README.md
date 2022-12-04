@@ -1,4 +1,4 @@
-# hello
+# Hello
 
 ## https://yunusemre347.github.io/todo-list/
 

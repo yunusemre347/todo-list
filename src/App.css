@@ -7,3 +7,9 @@
   border: black 1px solid;
 }
 
+.notes{
+  border: black 1px solid ;
+  padding : 10px ;
+  width: 540px;
+  margin: 35px ;
+}
